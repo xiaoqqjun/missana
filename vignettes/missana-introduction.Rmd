@@ -1,0 +1,19 @@
+---
+title: "缺失机制分析介绍"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{缺失机制分析介绍}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(missana)
+```
